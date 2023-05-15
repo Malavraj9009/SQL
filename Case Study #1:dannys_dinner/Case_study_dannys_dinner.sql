@@ -7,7 +7,7 @@
 --Date: 04/10/2021
 --Tool used: MS SQL Server
 
-CREATE SCHEMA dannys_diner;
+CREATE SCHEMA dinner;
 
 CREATE TABLE sales (
   "customer_id" VARCHAR(1),
